@@ -1,0 +1,30 @@
+#time {
+    margin-top: 50px;
+    margin-left: 110px;
+    font-size: 40px;
+    font-weight: 100;
+}
+
+h1 {
+    margin-left: 100px;
+}
+
+#start,
+#restart {
+    background-color: rgba(167, 55, 55, 0.596);
+    border: none;
+    color: rgb(218, 65, 65);
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 50px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+#container {
+    background-color: black;
+    color: wheat;
+}
